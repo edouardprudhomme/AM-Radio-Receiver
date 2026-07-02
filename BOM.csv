@@ -1,22 +1,22 @@
 Reference,Quantity,Component,Description_Value,Notes
 ANT1,1,Cadre en bois,40 cm x 40 cm,Structure pour la bobine de l'antenne
-ANT2,1,Fil verni,AWG 26,Pour générer l'inductance de ~870 µH [cite: 188]
+ANT2,1,Fil verni,AWG 26,Pour générer l'inductance de ~870 µH
 ANT3,1,Vis en laiton,Lot,Matériel de fixation non magnétique
 C1,1,Condensateur variable,10 pF - 100 pF,Tuning pour le circuit LC (remplacement du modèle maison)
-D1,1,Diode au germanium,1N34A,Détecteur d'enveloppe (démodulation) [cite: 173]
-U1,1,Amplificateur opérationnel,LM386,Amplificateur de puissance [cite: 176]
-R1,1,Potentiomètre rotatif,10 kΩ,Contrôle du volume [cite: 175]
-R2,1,Résistance,10 Ω,Filtre anti-oscillation [cite: 180]
-R3,1,Résistance,10 kΩ,Polarisation de l'ampli-op [cite: 181]
-C2,1,Condensateur électrolytique,220 µF,Couplage de sortie vers les écouteurs [cite: 182]
-C3,2,Condensateur électrolytique,10 µF,Gain de l'ampli-op et découplage [cite: 183]
-C4,2,Condensateur en céramique,0.047 µF,Filtre anti-oscillation et découplage [cite: 184]
-C5,1,Condensateur en céramique,2200 pF,Filtrage RF [cite: 185]
-L1,1,Perle en ferrite,998 Ω @ 100 MHz,Filtrage des hautes fréquences [cite: 186]
-SW1,1,Interrupteur à glissière,2 positions,On/Off du circuit [cite: 178]
-CON1,1,Connecteur pour batterie,9V,Alimentation [cite: 179]
-J1,1,Prise audio stéréo,3.5 mm,Sortie pour les écouteurs [cite: 177]
-BRD1,1,Platine d'expérimentation,4.5 x 3.5 cm,Base du prototype [cite: 172]
-WIR1,1,Câbles de connexion,Ensemble de 15,Câblage du circuit [cite: 187]
+D1,1,Diode au germanium,1N34A,Détecteur d'enveloppe (démodulation)
+U1,1,Amplificateur opérationnel,LM386,Amplificateur de puissance
+R1,1,Potentiomètre rotatif,10 kΩ,Contrôle du volume
+R2,1,Résistance,10 Ω,Filtre anti-oscillation
+R3,1,Résistance,10 kΩ,Polarisation de l'ampli-op
+C2,1,Condensateur électrolytique,220 µF,Couplage de sortie vers les écouteurs
+C3,2,Condensateur électrolytique,10 µF,Gain de l'ampli-op et découplage
+C4,2,Condensateur en céramique,0.047 µF,Filtre anti-oscillation et découplage 
+C5,1,Condensateur en céramique,2200 pF,Filtrage RF
+L1,1,Perle en ferrite,998 Ω @ 100 MHz,Filtrage des hautes fréquences
+SW1,1,Interrupteur à glissière,2 positions,On/Off du circuit
+CON1,1,Connecteur pour batterie,9V,Alimentation
+J1,1,Prise audio stéréo,3.5 mm,Sortie pour les écouteurs
+BRD1,1,Platine d'expérimentation,4.5 x 3.5 cm,Base du prototype
+WIR1,1,Câbles de connexion,Ensemble de 15,Câblage du circuit
 PWR1,1,Pile,9V,Alimentation du circuit
 OUT1,1,Écouteurs,Faible impédance,Sortie audio
