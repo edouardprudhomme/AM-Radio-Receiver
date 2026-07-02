@@ -11,7 +11,7 @@ Designed with a special **Montreal Canadiens (Bleu, Blanc, Rouge)** theme, the u
 * Edouard Prud'Homme
 * Frédéric Pimentel
 
-## 🎥 Video Demonstration
+## 🎥 Video Explanation and Demonstration
 *(https://www.youtube.com/watch?v=ummKtrk6xlA)*
 
 ## 🧠 Theoretical Operation (The 4 Stages)
