@@ -12,7 +12,7 @@ Designed with a special **Montreal Canadiens (Bleu, Blanc, Rouge)** theme, the u
 * Frédéric Pimentel
 
 ## 🎥 Video Explanation and Demonstration
-*(https://www.youtube.com/watch?v=ummKtrk6xlA)*
+*(https://www.youtube.com/watch?v=ummKtrk6xlA)* (in french)
 
 ## 🧠 Theoretical Operation (The 4 Stages)
 1. **Reception (Faraday's Law):** A custom 40x40 cm wooden loop antenna captures variations in the ambient magnetic field, inducing an electromotive force.
