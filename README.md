@@ -38,7 +38,6 @@ This brilliant mathematical alignment placed our target frequency directly in th
 
 ## 📁 Repository Contents
 * `/Hardware` - Contains the KiCad schematic (`.sch`) and project files.
-* `/Media` - High-resolution photos of the breadboard circuit and wooden antenna.
 
 ## 🚀 How to Replicate
 1. Open the `.sch` file in KiCad to view the complete wiring diagram.
